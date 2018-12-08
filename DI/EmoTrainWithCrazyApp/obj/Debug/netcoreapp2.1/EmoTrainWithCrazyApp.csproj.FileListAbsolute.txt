@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\bin\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.deps.json
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\bin\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.runtimeconfig.json
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\bin\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.runtimeconfig.dev.json
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\bin\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.dll
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\obj\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\obj\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\obj\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.AssemblyInfo.cs
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\bin\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.pdb
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\bin\Debug\netcoreapp2.1\SoftUniDi.dll
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\bin\Debug\netcoreapp2.1\SoftUniDi.pdb
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\obj\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\obj\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.csproj.CopyComplete
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\obj\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.dll
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\EmoTrainWithCrazyApp\obj\Debug\netcoreapp2.1\EmoTrainWithCrazyApp.pdb

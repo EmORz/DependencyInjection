@@ -1,0 +1,9 @@
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\bin\Debug\netcoreapp2.1\SoftUniDi.deps.json
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\bin\Debug\netcoreapp2.1\SoftUniDi.dll
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\bin\Debug\netcoreapp2.1\SoftUniDi.pdb
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\obj\Debug\netcoreapp2.1\SoftUniDi.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\obj\Debug\netcoreapp2.1\SoftUniDi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\obj\Debug\netcoreapp2.1\SoftUniDi.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\obj\Debug\netcoreapp2.1\SoftUniDi.AssemblyInfo.cs
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\obj\Debug\netcoreapp2.1\SoftUniDi.dll
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\SoftUniDi\obj\Debug\netcoreapp2.1\SoftUniDi.pdb

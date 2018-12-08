@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\bin\Debug\netcoreapp2.1\MyCrazyApp.deps.json
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\bin\Debug\netcoreapp2.1\MyCrazyApp.runtimeconfig.json
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\bin\Debug\netcoreapp2.1\MyCrazyApp.runtimeconfig.dev.json
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\bin\Debug\netcoreapp2.1\MyCrazyApp.dll
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\bin\Debug\netcoreapp2.1\MyCrazyApp.pdb
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\bin\Debug\netcoreapp2.1\SoftUniDi.dll
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\bin\Debug\netcoreapp2.1\SoftUniDi.pdb
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\obj\Debug\netcoreapp2.1\MyCrazyApp.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\obj\Debug\netcoreapp2.1\MyCrazyApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\obj\Debug\netcoreapp2.1\MyCrazyApp.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\obj\Debug\netcoreapp2.1\MyCrazyApp.AssemblyInfo.cs
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\obj\Debug\netcoreapp2.1\MyCrazyApp.csproj.CopyComplete
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\obj\Debug\netcoreapp2.1\MyCrazyApp.dll
+C:\Users\User\Downloads\Demo (1)\DI Demo\DependencyInjection\MyCrazyApp\obj\Debug\netcoreapp2.1\MyCrazyApp.pdb
